@@ -1,2 +1,2 @@
-# Composo-es-Sonic-Pi
+# Composições Sonic Pi
 Algumas das músicas que fiz com Sonic Pi
